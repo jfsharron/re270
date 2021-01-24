@@ -124,6 +124,7 @@ void sumProductDifference(int x, int y, int& sum, int& product, int& difference)
 //  Parameters: int x - the base integer
 //              int y - the exponent integer
 //  Returns:    power - the value of int x raised to the power of int y  
+//  ============================================================================
 int power(int x, int y){
 
     int power = x;
